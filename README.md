@@ -1,7 +1,7 @@
 <h2> Oi, sou o Enzo!</h2>
 
 <h4>
-Estou no curso técnico em informática no Instituto Federal do Rio Grande do Sul, Câmpus Farroupilha.
+Estou no curso técnico em informática no Instituto Federal do Rio Grande do Sul, Campus Farroupilha.
 </h4>
 
 <h5>Adoro ficção científica, lógica de programação e escotismo!</h5>
